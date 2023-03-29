@@ -1,0 +1,24 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100svw;
+  height: 100svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: system-ui, 'Segoe UI', sans-serif;
+  font-weight: 900;
+  color: hotpink;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  text-decoration: underline;
+}
